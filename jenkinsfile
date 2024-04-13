@@ -31,6 +31,9 @@ environment{
             }
         }
 
+
+        
+
     stage('Image push to ECR'){
             steps{
                 script{
